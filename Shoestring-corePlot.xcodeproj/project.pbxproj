@@ -357,7 +357,7 @@
 			isa = PBXGroup;
 			children = (
 				4D5866B417EE7978000DF65F /* Libraries */,
-				4D479C5A17D5D59500C565BD /* Shoestring */,
+				4D479C5A17D5D59500C565BD /* Shoestring-corePlot */,
 				4D479C5117D5D59500C565BD /* Frameworks */,
 				4D479C5017D5D59500C565BD /* Products */,
 			);
@@ -385,7 +385,7 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		4D479C5A17D5D59500C565BD /* Shoestring */ = {
+		4D479C5A17D5D59500C565BD /* Shoestring-corePlot */ = {
 			isa = PBXGroup;
 			children = (
 				ACB9A41517F8340300654B96 /* CorePlot */,
@@ -397,6 +397,7 @@
 				4D479C5B17D5D59500C565BD /* Supporting Files */,
 				4DBB58A217D6A77F00686605 /* MainFiles */,
 			);
+			name = "Shoestring-corePlot";
 			path = Shoestring;
 			sourceTree = "<group>";
 		};

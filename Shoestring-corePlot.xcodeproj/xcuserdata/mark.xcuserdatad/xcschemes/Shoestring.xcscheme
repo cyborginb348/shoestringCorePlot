@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "4D479C4E17D5D59500C565BD"
-               BuildableName = "Shoestring.app"
+               BuildableName = "Shoestring-corePlot.app"
                BlueprintName = "Shoestring-corePlot"
                ReferencedContainer = "container:Shoestring-corePlot.xcodeproj">
             </BuildableReference>
@@ -33,7 +33,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "4D479C4E17D5D59500C565BD"
-            BuildableName = "Shoestring.app"
+            BuildableName = "Shoestring-corePlot.app"
             BlueprintName = "Shoestring-corePlot"
             ReferencedContainer = "container:Shoestring-corePlot.xcodeproj">
          </BuildableReference>
@@ -52,7 +52,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "4D479C4E17D5D59500C565BD"
-            BuildableName = "Shoestring.app"
+            BuildableName = "Shoestring-corePlot.app"
             BlueprintName = "Shoestring-corePlot"
             ReferencedContainer = "container:Shoestring-corePlot.xcodeproj">
          </BuildableReference>
@@ -70,7 +70,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "4D479C4E17D5D59500C565BD"
-            BuildableName = "Shoestring.app"
+            BuildableName = "Shoestring-corePlot.app"
             BlueprintName = "Shoestring-corePlot"
             ReferencedContainer = "container:Shoestring-corePlot.xcodeproj">
          </BuildableReference>
